@@ -1,0 +1,11 @@
+C:\Users\Mili\Source\Repos\normal10as\pg2-s19e101-hola-mundo-milagrosb02\HolaMundo\HolaMundo\bin\Debug\netcoreapp2.1\HolaMundo.deps.json
+C:\Users\Mili\Source\Repos\normal10as\pg2-s19e101-hola-mundo-milagrosb02\HolaMundo\HolaMundo\bin\Debug\netcoreapp2.1\HolaMundo.runtimeconfig.json
+C:\Users\Mili\Source\Repos\normal10as\pg2-s19e101-hola-mundo-milagrosb02\HolaMundo\HolaMundo\bin\Debug\netcoreapp2.1\HolaMundo.runtimeconfig.dev.json
+C:\Users\Mili\Source\Repos\normal10as\pg2-s19e101-hola-mundo-milagrosb02\HolaMundo\HolaMundo\bin\Debug\netcoreapp2.1\HolaMundo.dll
+C:\Users\Mili\Source\Repos\normal10as\pg2-s19e101-hola-mundo-milagrosb02\HolaMundo\HolaMundo\bin\Debug\netcoreapp2.1\HolaMundo.pdb
+C:\Users\Mili\Source\Repos\normal10as\pg2-s19e101-hola-mundo-milagrosb02\HolaMundo\HolaMundo\obj\Debug\netcoreapp2.1\HolaMundo.vbprojAssemblyReference.cache
+C:\Users\Mili\Source\Repos\normal10as\pg2-s19e101-hola-mundo-milagrosb02\HolaMundo\HolaMundo\obj\Debug\netcoreapp2.1\HolaMundo.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\Source\Repos\normal10as\pg2-s19e101-hola-mundo-milagrosb02\HolaMundo\HolaMundo\obj\Debug\netcoreapp2.1\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\Mili\Source\Repos\normal10as\pg2-s19e101-hola-mundo-milagrosb02\HolaMundo\HolaMundo\obj\Debug\netcoreapp2.1\HolaMundo.AssemblyInfo.vb
+C:\Users\Mili\Source\Repos\normal10as\pg2-s19e101-hola-mundo-milagrosb02\HolaMundo\HolaMundo\obj\Debug\netcoreapp2.1\HolaMundo.dll
+C:\Users\Mili\Source\Repos\normal10as\pg2-s19e101-hola-mundo-milagrosb02\HolaMundo\HolaMundo\obj\Debug\netcoreapp2.1\HolaMundo.pdb
